@@ -1,0 +1,16 @@
+AI Prompts Used for Module 2 Assignment
+
+Prompt 1:
+Create a simple HTML page about the four seasons of the year as a reflection of my childhood.
+
+Prompt 2:
+My childhood was in Ho Chi Minh City, Vietnam, when I was around 14 years old. Make the descriptions of the seasons realistic for the weather and climate in Ho Chi Minh City.
+
+Prompt 3:
+Write at least two full paragraphs for each season. Include my childhood experiences, temperatures, rain, weather conditions, and activities that I remember.
+
+Prompt 4:
+Give each season its own heading. Use different colors for the heading and paragraph text for each season and use a simple background color for the page.
+
+Prompt 5:
+Keep the HTML and CSS simple because I am a beginner learning HTML and CSS.

@@ -1,0 +1,50 @@
+ /* Styles for small screens */
+ 
+ body {
+            background-color: #f5f1e8;
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333333;
+        }
+
+        .spring-heading {
+            color: green;
+        }
+
+        .spring-text {
+            color: #4f6b4f;
+        }
+
+        .summer-heading {
+            color: #d98200;
+        }
+
+        .summer-text {
+            color: #805b20;
+        }
+
+        .fall-heading {
+            color: #a64b2a;
+        }
+
+        .fall-text {
+            color: #70402f;
+        }
+
+        .winter-heading {
+            color: #356b8c;
+        }
+
+        .winter-text {
+            color: #405d6b;
+        }
+        /* Styles for large screens */
+@media (min-width: 750px) {
+    body {
+        margin: 40px;
+    }
+}
